@@ -1,0 +1,10 @@
+{
+    "name": "revalidator",
+    "description": "A cross-browser / node.js validator powered by JSON Schema",
+    "repos": "https://github.com/flatiron/revalidator.git",
+    "main": "lib/revalidator",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.3.1"
+}
